@@ -105,10 +105,8 @@ This `.github` repository contains organization-wide files and templates:
 ### For Contributors
 
 1. **Explore Our Repositories** 📚
-   ```bash
-   # Browse our organization's repositories
-   visit https://github.com/orgs/AromaStudiosDevelopment/repositories
-   ```
+   
+   Browse our [organization's repositories](https://github.com/orgs/AromaStudiosDevelopment/repositories)
 
 2. **Find an Issue to Work On** 🔍
    - Look for issues labeled with `good first issue` or `help wanted`
@@ -215,7 +213,7 @@ We'd love to hear from you! Here are the ways to connect:
 <div align="center">
 
 | Platform | Link |
-|----------|------|
+| -------- | ---- |
 | 💬 Discussions | [GitHub Discussions](https://github.com/orgs/AromaStudiosDevelopment/discussions) |
 | 🐛 Issues | [Report an Issue](https://github.com/AromaStudiosDevelopment/.github/issues/new) |
 | 📧 Email | [Contact Us](mailto:contact@aromastudios.dev) |
